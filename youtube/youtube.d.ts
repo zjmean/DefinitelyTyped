@@ -7,7 +7,7 @@
 module YT {
     interface EventArgs {
         target: Player;
-        data: any;
+        data:  any;
     }
 
     interface EventHandler {
